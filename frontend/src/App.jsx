@@ -10,7 +10,7 @@ import Login from './pages/Login'
 import PlaceOrder from './pages/PlaceOrder'
 import Orders from './pages/Orders'
 import NavBar from './components/NavBar'
-import Home from './pages/home';
+import Home from './pages/Home';
 import Cart from './pages/Cart'
 import Footer from './components/Footer';
 import Searchbar from './components/Searchbar';
